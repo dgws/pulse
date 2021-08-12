@@ -1,7 +1,9 @@
 @import 'base/variables';
 @import 'base/media';
 *{
-    font-family: 'Museo Sans Cyrl', sans-serif ;
+    font-family: 'Museo Sans Cyrl 500';
+    font-weight: normal;
+    font-style: italic;
 }
 .container {
     max-width: 950px;
@@ -13,3 +15,4 @@
 @import 'blocks/our';
 @import 'blocks/titles';
 @import 'blocks/consultation';
+@import 'blocks/forms';
