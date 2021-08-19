@@ -1,0 +1,9 @@
+@media screen and (max-width: 390spx) { 
+     .promo {
+        display: flex;
+        &__header {
+            font-size: 10px;
+        }
+     }
+    
+}
