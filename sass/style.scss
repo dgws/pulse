@@ -1,5 +1,6 @@
 @import 'base/variables';
 @import 'base/media';
+@import 'base/anamation';
 *{
     font-family: 'Museo Sans Cyrl 500', sans-serif;
 }
@@ -10,7 +11,8 @@
 @import 'blocks/promo';
 @import 'blocks/header';
 @import 'blocks/buttons';
-@import 'blocks/our';
+@import 'blocks/advantages';
+// @import 'blocks/our';
 @import 'blocks/titles';
 @import 'blocks/consultation';
 @import 'blocks/forms';
